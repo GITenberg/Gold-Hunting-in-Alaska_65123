@@ -1,5 +1,8 @@
 _repo: Gold-Hunting-in-Alaska_65123
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65123-h/images/cover.png
 creator:
   author:
     agent_name: Grinnell, Joseph
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52918
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65123#Gold-Hunting-in-Alaska
 gutenberg_issued: '2021-04-20'
 gutenberg_type: Text
 identifiers:
